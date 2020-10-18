@@ -15,4 +15,5 @@ public class Spring5webappApplication {
 		logger.debug("start Spring5webappApplication application...");
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
+
 }
